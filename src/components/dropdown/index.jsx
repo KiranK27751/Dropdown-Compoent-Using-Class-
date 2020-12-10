@@ -11,7 +11,7 @@ class Dropdown extends Component {
       activeindex: "",
       title: ""
     };
-  }
+  } 
 
   //FUNCTION TO CHANGE LIST STATE
   changeListstate = () => {
