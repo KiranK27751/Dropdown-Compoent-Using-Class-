@@ -1,0 +1,18 @@
+
+:root {
+  --dropdown-width: 200px;
+  --dropdown-height: 40px;
+  --dropdown-background: rgb(80, 80, 80);
+  --dropdown-font-color: white;
+  --dropddown-font-style: sanserif;
+  --border-radius: 5px;
+  --dropdown-hover-color: rgb(145, 145, 145);
+  --dropdown-font-size: 18px;
+  --dropdown-max-width: 200px;
+}
+
+.dropdown--green{
+   --dropdown-background: rgb(43, 204, 97);
+   --dropdown-hover-color:rgb(0, 116, 161);
+   --dropdown-font-color: white;
+}
